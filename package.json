@@ -1,0 +1,19 @@
+{
+  "name": "react-dev",
+  "version": "1.0.0",
+  "description": "Learn React with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyscott/react-dev.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troyscott/react-dev/issues"
+  },
+  "homepage": "https://github.com/troyscott/react-dev#readme"
+}
